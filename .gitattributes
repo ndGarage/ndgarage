@@ -1,0 +1,10 @@
+# Set the default behavior
+* text=auto
+
+# explicitly declare text files
+*.elf text
+*.ino text
+
+# binary files
+*.bin binary
+
